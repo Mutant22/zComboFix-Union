@@ -1,1 +1,0 @@
-void Hook_DoAnimation();
